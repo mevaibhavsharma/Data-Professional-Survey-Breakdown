@@ -70,9 +70,9 @@ A comprehensive Power BI dashboard that explores survey data collected from 500+
 
 ## 📷 Preview
 
-![Dashboard Preview](./preview.png)
-![Dashboard Preview](./preview.png)
-![Dashboard Preview](./preview.png)
+![Dashboard Preview](https://github.com/mevaibhavsharma/Data-Professional-Survey-Breakdown/blob/main/screenshots/1_Overview.png)
+![Dashboard Preview](https://github.com/mevaibhavsharma/Data-Professional-Survey-Breakdown/blob/main/screenshots/2_DemographicsDive.png)
+![Dashboard Preview](https://github.com/mevaibhavsharma/Data-Professional-Survey-Breakdown/blob/main/screenshots/3_AboutSurvey.png)
 
 ---
 
